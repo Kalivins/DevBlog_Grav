@@ -1,0 +1,11 @@
+name: Kalivins Theme (LingoBerry based)
+version: 1.0
+description: "A clean and simple theme for bloggers, with responsive design and beautiful typography."
+icon: group
+author:
+  name: Kalivins & Team Grav
+  email: devs@getgrav.org & contact@kalivins.fr
+  url: http://getgrav.org & https://www.kalivins.fr
+homepage: https://github.com/Kalivins/DevBlog_Grav
+keywords: lingonberry, theme, onepage, modern, fast, responsive, html5, css3, kalivins, devblog, webdevelopper
+license: GPL
